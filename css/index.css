@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+  font: 400 1.5em/1.38 Montserrat;
+  color: #ffffff;
+
+}
+
+#bar-chart-high svg,
+#bar-chart-low svg {
+    margin-left: 35%;
+    min-width: 40%;
+}
+
+.updated,
+.city{
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+.chart-desc {
+  padding-top: 2%;
+}
